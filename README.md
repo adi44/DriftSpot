@@ -4,7 +4,7 @@
 
 > "I was at a conference in Whitefield, Bangalore. It was 6 PM. I had the evening free but no idea what was nearby — Google Maps showed places 45 minutes away in traffic, TripAdvisor gave me a city-wide Top 10. I ended up staying at the hotel. I built DriftSpot so that never happens again."
 
-**[Live Demo](https://driftspot.vercel.app)** · **[API Docs](https://driftspot-api.onrender.com/docs)** · **[Product Docs](./docs/)**
+**[Live Demo](https://driftspot-app.vercel.app)** · **[API Docs](https://driftspot-api.onrender.com/docs)** · **[Product Docs](./docs/)**
 
 ---
 
