@@ -6,7 +6,7 @@
 
 **[Live Demo](https://driftspot-app.vercel.app)** · **[API Docs](https://driftspot-api.onrender.com/docs)** · **[Product Docs](./docs/)**
 
-[![DriftSpot Demo](https://cdn.loom.com/sessions/thumbnails/e2d58d7075d64664b90d04bcd752e048-with-play.gif)](https://www.loom.com/share/e2d58d7075d64664b90d04bcd752e048)
+▶ **[Watch Demo on Loom](https://www.loom.com/share/e2d58d7075d64664b90d04bcd752e048)**
 
 ---
 
